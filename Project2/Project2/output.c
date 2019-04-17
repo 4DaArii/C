@@ -4,6 +4,6 @@
 #include "output.h"
 
 // Функция вывода числа
-void output_number(int type){
+void output_number(int number, int type){
 	printf("output_number function is UNDEFINED!!!\n");
 }
