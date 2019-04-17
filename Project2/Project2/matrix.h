@@ -16,6 +16,6 @@
 	void delete_matrix(MATRIX_TYPE matrix);
 
 	// Функция вывода матрицы в консоль
-	void output_matrix(int type);
+	void output_matrix(MATRIX_TYPE matrix, int type);
 
 #endif
