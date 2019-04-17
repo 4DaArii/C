@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
+#include "main.h"
 
 //calculate natural logarithm
 double loge(double x)
@@ -110,14 +111,14 @@ int main(void)
 	*/
 	
 	//output_matrix
-	int output_matrix(matrix);
+	output_matrix(matrix);
 	
 	//find the largest and the smallest elements
 	
-	//output them
+	//output the largest and the smallest elements
 	
-	//swap them
+	//swap the largest and the smallest elements
 	
 	//output_matrix
-	int output_matrix(matrix);
+	output_matrix(matrix);
 }
