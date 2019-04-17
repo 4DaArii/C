@@ -1,0 +1,1 @@
+gcc -o app.out main.c tests.c matrix.c output.c -lm
