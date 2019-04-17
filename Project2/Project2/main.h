@@ -3,6 +3,7 @@
 
 	#include "output.h"
 	#include "matrix.h"
+	#include "tests.h"
 	
 
 #endif
