@@ -75,6 +75,8 @@ int set(int x)
 int main(void)
 {
 	run_tests();
+
+	
 	return 0;
 
 	//set size
@@ -114,7 +116,7 @@ int main(void)
 	*/
 	
 	//output_matrix
-	output_matrix(matrix);
+	// output_matrix(matrix);
 	
 	//find the largest and the smallest elements
 	
@@ -123,5 +125,5 @@ int main(void)
 	//swap the largest and the smallest elements
 	
 	//output_matrix
-	output_matrix(matrix);
+	// output_matrix(matrix);
 }
