@@ -6,9 +6,6 @@
 		OUTPUT_TYPE_FILE=2
 	};
 
-	// Функция вывода матрицы в консоль
-	void output_matrix(int type=OUTPUT_TYPE_CONSOLE);
-
 	// Функция вывода числа
-	void output_number(int type=OUTPUT_TYPE_CONSOLE);
+	void output_number(int type);
 #endif

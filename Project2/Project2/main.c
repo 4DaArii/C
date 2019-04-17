@@ -52,28 +52,31 @@ double cos(double x)
 
 
 //output array!!!!!!!
-int output_matrix(matrix)
+int output_matrix_old(matrix)
 {
-	for (int i = 0; i < size; i++)
-	{
-		for (int j = 0; j < size; j++)
-		{
-			printf("%lf", matrix[i][j])
-		}
-		printf("\n");
-	}
-	return 0;
+	// for (int i = 0; i < size; i++)
+	// {
+	// 	for (int j = 0; j < size; j++)
+	// 	{
+	// 		printf("%lf", matrix[i][j]);
+	// 	}
+	// 	printf("\n");
+	// }
+	// return 0;
 }
 
 
 //set value???
-int set(s x)
+int set(int x)
 {
-	printf("Enter the")
+	// printf("Enter the");
 }
 
 int main(void)
 {
+	run_tests();
+	return 0;
+
 	//set size
 	printf("Enter the size of matrix from 2 to 20:");
 	int size;
